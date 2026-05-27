@@ -25,24 +25,6 @@ The CRT Phase 2 Post-Assessment is part of the **Campus Recruitment Training** p
 
 ---
 
-## 🚀 Getting Started
-
-To explore the code solutions:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Shresth-Shakrawar/CRT-Phase2-Assessment--Shresth-Shakrawar-.git
-   ```
-
-2. **Extract the code files**
-   ```bash
-   unzip Shresth-Shakrawar_Post-Test_CodeFiles.zip
-   ```
-
-3. **Open and run** individual solution files using your preferred IDE or terminal.
-
----
-
 ## 👤 Author
 
 **Shresth Shakrawar**
